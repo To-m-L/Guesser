@@ -5,7 +5,6 @@ import java.util.*;
  * @version 1.0
  * 
  */
-//we need to play the game by hand to help with the logic.
 
 public class Brain {
 	public static int questions; 
